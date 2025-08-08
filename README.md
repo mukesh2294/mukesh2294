@@ -10,7 +10,7 @@
 ---
 
 🌟 **Who am I?**  
-I’m a **EC\** student at **NIT PATNA**, deeply passionate about technology. I’m currently mastering **web development** and **problem-solving** while exploring other emerging tech skills to broaden my horizons. My mission is to merge creativity with logic to build solutions that make a difference.
+I’m a **ECE\** student at **NIT PATNA**, deeply passionate about technology. I’m currently mastering **web development** and **problem-solving** while exploring other emerging tech skills to broaden my horizons. My mission is to merge creativity with logic to build solutions that make a difference.
 
 ---
 
@@ -57,7 +57,7 @@ I’m a **EC\** student at **NIT PATNA**, deeply passionate about technology. I�
 [![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)](https://www.adobe.com/)
 [![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
 [![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)](https
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)]
 
 ---
 
